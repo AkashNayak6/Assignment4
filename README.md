@@ -1,6 +1,6 @@
 # Assignment 4: Undirected & Directed Graphs
 
-This assignment consists of analysis' of undirected graphs, directed graphs, time complexity of V and E, BFS algorithm, DFS and BFS Trace, iterative DFS and recursive BFS, and linear time alogrithm.
+Analysis' of undirected graphs, directed graphs, time complexity of V and E, BFS algorithm, DFS and BFS Trace, iterative DFS and recursive BFS, and linear time alogrithm.
 
 Question 1: prove exact time complexity in terms of V and E for 4 cases:
 
