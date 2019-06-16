@@ -5,8 +5,11 @@ This assignment consists of analysis' of undirected graphs, directed graphs, tim
 Question 1: prove exact time complexity in terms of V and E for 4 cases:
 
 • undirected graphs adjaceny matrix representation
+
 • undirected graphs adjaceny list representation
+
 • directed graphs adjaceny matrix representation
+
 • directed graphs adjaceny list representation
 
 Question 2: do a DFS and BFS trace in form of horizontal table for undirected graph
@@ -16,6 +19,7 @@ Question 3: do a DFS and BFS trace in form of horizontal table for directed grap
 Question 4: write pseudo code (format on a numbered list) and prove Big-Oh time complexity (in terms of V and E) for 2 cases:
 
 • Iterative DFS
+
 • Recursive BFS
 
 Question 5: write pseudocode to solve an Undirected Graph, provide stack trace of algorithm in tabular form
